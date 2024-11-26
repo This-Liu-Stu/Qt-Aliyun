@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/image/equip">
+        <file>image/equip/Fun.png</file>
+        <file>image/equip/Humi.png</file>
+        <file>image/equip/Light.png</file>
+        <file>image/equip/Temp.png</file>
+        <file>image/equip/Water.png</file>
+    </qresource>
+    <qresource prefix="/image/connect">
+        <file>image/connect/no.png</file>
+        <file>image/connect/yes.png</file>
+    </qresource>
+    <qresource prefix="/image">
+        <file>image/chart.png</file>
+        <file>image/main.png</file>
+    </qresource>
+</RCC>
